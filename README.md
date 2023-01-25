@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @RyanSh3ll
-- 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Python and C++
-- 📫 You can reach me on discord: Sh3ll#7018
+currently learning Python and C++
