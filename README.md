@@ -1,1 +1,1 @@
-currently learning Python and C++
+Currently learning Python and C++
