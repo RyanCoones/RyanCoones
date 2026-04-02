@@ -1,5 +1,4 @@
-Currently enrolled in 3rd year of Integrated Mathematics and Computer Science at Ontario Tech University. 
- - Enrolled in the Co-op program
- - 4.1/4.3 cGPA
+Incoming SWE Project Intern @ LTM
+Currently enrolled in 3rd year Integrated Mathematics and Computer Science (Co-op) with 4.1/4.3 cGPA @ Ontario Tech University.
 
 Interested in Software Engineering and Artificial Intelligence.
